@@ -9,3 +9,20 @@ Shaun-
 the rules and goals your team has established:
 
 the user stories and estimated story points:
+Visitors:
+Register on the website to become user
+
+Coach:
+Add sessions to lesson
+Become coach of a session
+View swimmers that sign up for their lessions
+Add progress reports for swimmers in their lessons
+Update profile
+
+Swimmer:
+Sign up for new session
+View self progress reports added by coach
+
+Administrator:
+Assign roles to users
+Add lessons
