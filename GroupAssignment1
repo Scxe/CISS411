@@ -15,25 +15,29 @@ Asa will turn in files every Sunday before end of day, and notify team via Disco
 
 Decision making: At least 2 members must approve any commit.
 
-The user stories and estimated story points:
-Visitors: Register on the website to become user.
+
+The user stories:
+
+Visitors: 
+Any visitor can register on the website to become user.
 
 Coach:
-Add sessions to lesson
-Become coach of a session
-View swimmers that sign up for their lessions
-Add progress reports for swimmers in their lessons
-Update profile
+A coach can add sessions to a lesson and become the coach for the session.
+A coach can view swimmers that sign up for their lessions.
+A coach can add progress reports for swimmers in their lessons.
+A coach can update profile.
 
 Swimmer:
-Sign up for new session
-View self progress reports added by coach
+A swimmer can sign up for new session.
+A swimmer can view self progress reports added by coach.
 
 Administrator:
-Assign roles to users
-Add lessons
+An administrator can assign roles to users.
+An administrator can add lessons.
+
 
 Story Points (Based on outline starting on page 351):
+
 Each point is worth 30 minutes.
 > Steps 1-6 = 3 to 4 points.
 > Steps 7-9 = 2 each, 6 points total.
