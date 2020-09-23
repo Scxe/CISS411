@@ -19,7 +19,7 @@ Decision making: At least 2 members must approve any commit if possible.
 The user stories:
 
 Visitors: 
-As a visitor, I need to register on the website to become user.
+As a visitor, I need to be able register on the website to become user so I can enroll in sessions.
 
 Administrator:
 As an administrator, I need to assign roles to users (e.g. Coach, Swimmer) and view what roles all users have.
