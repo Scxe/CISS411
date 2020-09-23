@@ -19,22 +19,25 @@ Decision making: At least 2 members must approve any commit if possible.
 The user stories:
 
 Visitors: 
-Any visitor can register on the website to become user.
-
-Coach:
-A coach can add sessions to a lesson and become the coach for the session.
-A coach can view swimmers that sign up for their lessions.
-A coach can add progress reports for swimmers in their lessons.
-A coach can update profile.
-
-Swimmer:
-A swimmer can sign up for new session.
-A swimmer can view self progress reports added by coach.
+As a visitor, I need to register on the website to become user.
 
 Administrator:
-An administrator can assign roles to users.
-An administrator can add lessons.
+As an administrator, I need to assign roles to users (e.g. Coach, Swimmer) and view what roles all users have.
+As an administrator, I need to add lessons.
 
+Coach:
+As a coach, I should be able to add sessions to a lesson and become the coach for the session.
+As a coach, I need to be able to view swimmers that sign up for the lessons.
+As a coach, I want to add progress reports for swimmers to view in their lessons.
+As a coach, I'll need to update my profile.
+
+Swimmer:
+As a swimmer, I need to be able to sign up for new sessions.
+As a swimmer, I want to view self progress reports added by coach.
+As a swimmer, I'll need to update my profile.
+
+Acceptance Criteria:
+Admin must be able to control user roles, and core functionality must exist for all users mentioned thus far so that the Admin does not have to update profiles, add sessions to lessons, etc.
 
 Story Points (Based on outline starting on page 351):
 
